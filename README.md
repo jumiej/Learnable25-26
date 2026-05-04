@@ -32,6 +32,12 @@ _ my friend
 
 3. Close the file.
 
+1. Firt Item
+2. second Item
+   * item 1
+   - item 2
+4. Third Item
+
 
 **Learnable25-26**
 
