@@ -39,7 +39,7 @@ _ my friend
 4. Third Item
 
 
-At the command prompt, type `nano`.\
+At the command prompt, type `nano`.\n
 ``Use `code` in your Markdown file.``
 
 
