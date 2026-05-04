@@ -39,6 +39,10 @@ _ my friend
 4. Third Item
 
 
+At the command prompt, type `nano`.
+``Use `code` in your Markdown file.``
+
+
 **Learnable25-26**
 
 # version control.
