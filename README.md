@@ -7,6 +7,10 @@
 4) Fourt Item
 5) fifth Item
 
+* my own
+_ my friend
++ omooo 
+
 
 **Learnable25-26**
 
