@@ -41,7 +41,9 @@ _ my friend
 
 At the command prompt, type `nano`.\n
 ``Use `code` in your Markdown file.``
-
+    my name is jumie
+    ojumoola
+    
 
 **Learnable25-26**
 
