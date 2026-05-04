@@ -25,6 +25,13 @@ _ my friend
 
 * And here's the third list item.
 
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
+
 
 **Learnable25-26**
 
